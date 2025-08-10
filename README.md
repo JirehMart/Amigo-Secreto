@@ -1,9 +1,10 @@
 # Amigo Secreto 🎁
+<img width="949" height="881" alt="image" src="https://github.com/user-attachments/assets/e3a2b76b-142a-4ca0-86e8-a6590aa832f8" />
 
 ¡Bienvenido al sorteador de **Amigo Secreto**! ¿Cansado de los sorteos manuales que siempre acaban en líos? Con esta aplicación web, puedes organizar tu intercambio de regalos de una forma fácil y emocionante.
 
 ## ¿Qué puedes hacer?
-
+- <img width="659" height="163" alt="image" src="https://github.com/user-attachments/assets/f4a12689-3630-40d0-a2bd-2f55d7fdad3b" />
 - **Agregar Nombres sin Límites:** Añade a todos tus amigos, familiares o compañeros de trabajo. ¡No hay un límite!
 - **Sorteo Justo y Aleatorio:** Un solo clic y el programa se encargará de elegir un "amigo secreto" de forma completamente aleatoria.
 - **Interfaz Sencilla:** Diseñado para ser intuitivo y fácil de usar, ¡para que todos puedan participar sin problemas!
