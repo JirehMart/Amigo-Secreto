@@ -5,6 +5,7 @@
 
 ## ¿Qué puedes hacer?
 <img width="659" height="163" alt="image" src="https://github.com/user-attachments/assets/f4a12689-3630-40d0-a2bd-2f55d7fdad3b" />
+
 - **Agregar Nombres sin Límites:** Añade a todos tus amigos, familiares o compañeros de trabajo. ¡No hay un límite!
 - **Sorteo Justo y Aleatorio:** Un solo clic y el programa se encargará de elegir un "amigo secreto" de forma completamente aleatoria.
 - **Interfaz Sencilla:** Diseñado para ser intuitivo y fácil de usar, ¡para que todos puedan participar sin problemas!
